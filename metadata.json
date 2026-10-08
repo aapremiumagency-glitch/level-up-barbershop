@@ -1,0 +1,6 @@
+{
+  "name": "Level Up Barbershop",
+  "description": "Experience elite grooming at Level Up Barbershop in London, ON. Precision fades, traditional hot towel shaves, and artisanal haircut services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
